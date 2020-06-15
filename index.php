@@ -1,8 +1,11 @@
-<!DOCTYPE>  
-<html>  
-<body>  
-<?php  
-echo "<h2>Hello First PHP</h2>";  
-?>  
-</body>  
-</html>  
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Test Page</title>
+</head>
+<body>
+<?php
+    echo "<img src='images.jpg' alt='Terraform' />";
+?>
+</body>
+</html>
