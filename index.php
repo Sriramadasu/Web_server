@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-    echo "<img src='images.jpg' alt='Terraform' />";
+    echo "<img src='\root\images.jpg' alt='Terraform' />";
 ?>
 </body>
 </html>
