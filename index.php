@@ -4,8 +4,7 @@
     <title>Test Page</title>
 </head>
 <body>
-<?php
-    echo "<img src='\root\images.jpg' alt='Terraform' />";
-?>
+<p>HII!!! This is my test web page.</p>
+<img src='images.jpg' alt='Terraform' />
 </body>
 </html>
